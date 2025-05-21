@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* #JobPage {
+    display: flex;
+    flex-direction: row;
+}
+
+#JobPage main{
+    flex: 58%;
+}
+
+#JobPage aside{
+    flex: 40%;
+} */

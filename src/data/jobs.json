@@ -1,0 +1,326 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Pheonix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6e6c",
+      "title": "rthrt",
+      "type": "Full-Time",
+      "description": "rthrth",
+      "location": "rthrt",
+      "salary": "Under $50K",
+      "company": {
+        "name": "rthrt",
+        "description": "ht",
+        "contactEmail": "rthrth@erhe",
+        "contactPhone": "546"
+      }
+    },
+    {
+      "id": "0e42",
+      "title": "ioiu",
+      "type": "Full-Time",
+      "description": "uiou",
+      "location": "uioui",
+      "salary": "Under $50K",
+      "company": {
+        "name": "uioui",
+        "description": "uiouio",
+        "contactEmail": "uiouio@yrty",
+        "contactPhone": "56757"
+      }
+    },
+    {
+      "id": "bfd1",
+      "title": "uioliu",
+      "type": "Full-Time",
+      "description": "uoll",
+      "location": "oiloi",
+      "salary": "Under $50K",
+      "company": {
+        "name": "loiol",
+        "description": "iooliio",
+        "contactEmail": "oilio@wgre",
+        "contactPhone": "567567"
+      }
+    },
+    {
+      "id": "c1bf",
+      "title": "rthrt",
+      "type": "Full-Time",
+      "description": "rthrt",
+      "location": "hrt",
+      "salary": "Under $50K",
+      "company": {
+        "name": "ehtert",
+        "description": "rthrt",
+        "contactEmail": "rtht@rehre",
+        "contactPhone": "1234"
+      }
+    },
+    {
+      "id": "a751",
+      "title": "Part Time Job Update",
+      "type": "Part-Time",
+      "description": "regregregre",
+      "location": "regregreg",
+      "salary": "Over $200K",
+      "company": {
+        "name": "regrgeregre",
+        "description": "regrgeregre",
+        "contactEmail": "rgeg@regrerthrt",
+        "contactPhone": "53455555555555555555555555554"
+      }
+    },
+    {
+      "id": "8d80",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "7c11",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "cf6f",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "b7ba",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "0d13",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "34d7",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "4b2e",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "29b7",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "d39e",
+      "title": "regrege",
+      "type": "Full-Time",
+      "description": "rgreg",
+      "location": "regreg",
+      "salary": "Under $50K",
+      "company": {
+        "name": "regre",
+        "description": "ergregre",
+        "contactEmail": "gregr@regreg",
+        "contactPhone": "3454"
+      }
+    },
+    {
+      "id": "3e09",
+      "title": "Remote Job Update",
+      "type": "Remote",
+      "description": "rgregregre",
+      "location": "regregregre",
+      "salary": "Over $200K",
+      "company": {
+        "name": "regreregre",
+        "description": "ergregreerger",
+        "contactEmail": "gregr@regregregre",
+        "contactPhone": "3454354"
+      }
+    },
+    {
+      "id": "1784",
+      "title": "rthrt",
+      "type": "Full-Time",
+      "description": "hrr",
+      "location": "rthrt",
+      "salary": "Under $50K",
+      "company": {
+        "name": "rthrth",
+        "description": "h",
+        "contactEmail": "hrtht@regre",
+        "contactPhone": "54654"
+      }
+    },
+    {
+      "id": "0f08",
+      "title": "rthrt",
+      "type": "Full-Time",
+      "description": "rthrt",
+      "location": "rthrt",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "hrthrt",
+        "description": "rthrt",
+        "contactEmail": "rthrth@5reyt",
+        "contactPhone": "56567"
+      }
+    }
+  ]
+}
